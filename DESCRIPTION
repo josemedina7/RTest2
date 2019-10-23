@@ -1,0 +1,17 @@
+Package: RTest2
+Title: Test For Learning Propourses
+Version: 0.0.1
+Authors@R: c(
+            person("Alonso", "Medina-Donayre", email = "jose_medina7@usmp.pe", role = c("aut", "cre")),
+            person("Omar", "Benites",, email = "obec07@gmail.com", role = "aut"),
+            person("CIP-RIU", "Research Informatic Unit", , "cip-riu@cgiar.org",role = "cph", comment = "cph of the R code." ),
+            person("International Potato Center (CIP)", role = "cph", comment = "cph of the R code.")
+            )
+Description: Provide general functions. At lest two lines. Writed in active mode.
+Depends: R (>= 3.5.3)
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1
+Suggests: 
+    testthat
