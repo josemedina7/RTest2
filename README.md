@@ -1,2 +1,10 @@
 # RTest2
-Test
+
+# How to Install Test2
+
+## Library
+
+```{r}
+devtools::install_github("josemedina7/RTest2")
+
+```
